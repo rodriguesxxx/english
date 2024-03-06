@@ -1,6 +1,9 @@
 ## Articles - Artigos
 
+Tags: #english
+
 ### a, an, the - noun
+
 - ### an - **use before a vowel or vowel sound** (usar antes de uma vogal ou som de vogal).
     
     exemple:

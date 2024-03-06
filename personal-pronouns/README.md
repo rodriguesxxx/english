@@ -1,7 +1,8 @@
 ## Personal Pronouns - Pronomes Pessoais
 
-Existem duas categorias de pronomes: **Subject Pronouns** e **Object Pronouns** 
+Tags: #english
 
+Existem duas categorias de pronomes: **Subject Pronouns** e **Object Pronouns** 
 
 ### Subject Pronouns - Pronomes Toscos
 ---

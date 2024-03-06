@@ -1,5 +1,7 @@
 # Cardional + Ordinal Numbers - Numeros Cardinais e Ordinais
 
+Tags: #english
+
 ## Cardional numbers
 
 We use cardine numbers to talk about quantity(Usamos numeros cardinas para falar sobre quantidade)
